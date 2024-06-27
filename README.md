@@ -7,3 +7,5 @@ POST - http://localhost:4000/api/user/login Body:
 }
 
 GET - http://localhost:4000/api/user Headers: KEY - Authorization  Value - Bearer <YourTokenAfterLogingIn>
+
+To run - npm run dev (In Backend Folder)
